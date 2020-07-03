@@ -1,0 +1,16 @@
+#ESTRUTURA BÁSICA
+
+A partir do HTML5 é necessário começar com:
+
+
+<!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8"/>
+    <title>Página de Teste</title>
+    </head>
+    <body>
+    "A vida pode ser bela. Precisamos apenas acreditar"
+
+</body>
+</html>
