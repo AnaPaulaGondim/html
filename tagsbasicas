@@ -1,0 +1,49 @@
+#TAGS BÁSICAS
+As tags são usadas para informar ao navegador a estrutura do site.
+Uma tag deve ser assim escrita <tag></tag>
+Abaixo algumas tags essenciais e bem básicas para entendermos como funciona esse mundo html:
+
+<html></html> - toda estrutura está dentro dessa tag;
+<head></head> - usada como cabeçalho;
+<body></body> - usado como corpo;
+<h1></h1> - Titulos e subtítulos; de h1 até h6, sendo 1 o maior tamanho e 6 o menor;
+<p></p> - parágrafo;
+<a></a> - ancoragem de link;
+<img/> - imagem;
+<button></button>  - botão para ação;
+<br/> - quebra de linha;
+<ul></ul> - lista desordenada;
+<ol></ol> - lista ordenada;
+
+Vejamos como seria um código com essas tags:
+
+<!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8"/>
+        <title>Página de Teste</title>
+    </head>
+    <body>
+        <h1>Título da Página</h1>
+        <h3>Sub da pagina</h3>
+        <p>Sabemos que estamos aprendendo html</p>
+        <a href="https://www.google.com">Vá para o Google</a>
+        <br/>
+        <img src="https://www.google.com.br/google.jpg" alt="Site Google" />
+        <br/>
+        <button>Clique Aqui</button>
+
+        <h3>Lista de Bolo</h3>
+        <br/>
+        <ul>
+            <li>Farinha</li>
+            <li>Ovos</li>
+            <li>Leite</li>
+        </ul>
+        <ol>
+            <li>FArinha</li>
+            <li>Ovos</li>
+            <li>Leite</li>
+        </ol>
+    </body>
+</html>
