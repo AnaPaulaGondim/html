@@ -1,10 +1,9 @@
 #INDENTAÇÃO
-< sub >  Organizador dos  códigos
-
+Organziador de Códigos
 Na linguagem PYTHON a indentação pode interferir na execução do programa no HTML, não!
 
 CÓDIGO SEM INDENTAÇÃO
-<sub> Em apenas Uma Linha:
+Em apenas uma linha:
 
 <!DOCTYPE html><html><head><meta charset="UTF-8"/><title>Página de Teste</title></head><body>"A vida pode ser bela. Precisamos apenas acreditar"</body></html>
 
