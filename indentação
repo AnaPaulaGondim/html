@@ -1,0 +1,37 @@
+#INDENTAÇÃO
+< sub >  Organizador dos  códigos
+
+Na linguagem PYTHON a indentação pode interferir na execução do programa no HTML, não!
+
+CÓDIGO SEM INDENTAÇÃO
+<sub> Em apenas Uma Linha:
+
+<!DOCTYPE html><html><head><meta charset="UTF-8"/><title>Página de Teste</title></head><body>"A vida pode ser bela. Precisamos apenas acreditar"</body></html>
+
+CÓDIGO SEM INDENTAÇÃO
+Uma linha de código embaixo da outra:
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"/>
+<title>Página de Teste</title>
+</head>
+<body>
+"A vida pode ser bela. Precisamos apenas acreditar"
+</body>
+</html>
+
+CÓDIGO COM INDENTAÇÃO PADRONIZADA
+Fácil leitura e "Compreensão"
+
+<!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8"/>
+        <title>Página de Teste</title>
+    </head>
+    <body>
+        "A vida pode ser bela. Precisamos apenas acreditar"
+    </body>
+</html>
